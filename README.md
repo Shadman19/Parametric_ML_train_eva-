@@ -96,8 +96,11 @@ The notebook can also display the first few images from the dataset to provide a
 
 ## Project Structure
 ```bash
-├── ML_Task_Colab.ipynb   # Main notebook containing the code
-├── README.md             # This README file
+
+├── LICENSE            # This is LICENSE file
+├── README.md             # This is README file
+├── parametric_ml_train_eval.ipynb   # Main notebook containing the code
+
 
 ```
 ## Evaluation
