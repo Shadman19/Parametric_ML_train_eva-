@@ -49,8 +49,8 @@ Make sure you have the following dependencies installed:
 To install dependencies in your environment, you can run:
 ```bash
 pip install torch torchvision tqdm matplotlib numpy
-
-# Example input when running the notebook
+```
+### Example input when running the notebook
 Enter a dataset name from torchvision: CIFAR10
 Enter batch size: 32
 Enter a model name from torchvision: resnet18
